@@ -165,4 +165,4 @@ This command will open your web browser to the Streamlit application (usually at
 
 **Krishna Singh**
 
-* [Your GitHub Profile](https://github.com/MrDunky14)
+* [MY GitHub Profile](https://github.com/MrDunky14)
