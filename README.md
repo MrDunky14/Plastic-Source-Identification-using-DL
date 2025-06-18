@@ -161,15 +161,6 @@ streamlit run app.py
 
 This command will open your web browser to the Streamlit application (usually at http://localhost:8501), where you can interact with your model.
 
-## **Future Enhancements (Optional)**
-
-* **Forecasting Module:** Integrate a time-series forecasting component to predict future pollution trends or volumes.  
-* **Model Monitoring:** Implement real-time monitoring of model performance and data drift.  
-* **More Advanced Interpretability:** Explore counterfactual explanations or adversarial examples for deeper insights.  
-* **Dockerization:** Containerize the application using Docker for easier deployment and portability.  
-* **Cloud Deployment:** Deploy the Streamlit application on cloud platforms (e.g., AWS, GCP, Azure, Hugging Face Spaces) for wider accessibility.  
-* **Expand Features:** Incorporate additional data points like bottle material type, color, or geographical coordinates if available.
-
 ## **Author**
 
 **Krishna Singh**
